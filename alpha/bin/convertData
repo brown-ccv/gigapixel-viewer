@@ -1,0 +1,4 @@
+/gpfs/runtime/opt/gigapixelviewer/alpha/bin/tiletiff -e /gpfs/runtime/opt/gigapixelviewer/alpha/share/dummyGeoData.tfw -w 512 -h 512 -q 95 -m 32 -v $1 $2
+
+
+

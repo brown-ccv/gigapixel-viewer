@@ -1,0 +1,2 @@
+module load vrg3d/265 vrpn gigapixelviewer
+gigapixelviewer $*

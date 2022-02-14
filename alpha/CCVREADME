@@ -1,0 +1,9 @@
+Just go to src and run the make-script. In order to build you require the modules opengl, vrpn and vrg3d.
+
+module load vrpn/7.33 opengl/nvidia-375.66 vrg3d/265 
+
+You will also need to compile the tiletiff library in src/tiletiff. Simply run the make-script. No dependencies needed.
+
+
+
+***** CAVE/YURT software *****
